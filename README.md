@@ -26,7 +26,11 @@
    <img align="center" alt="material" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
    <img align="center" alt="supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
    <img align="center" alt="psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
-   <img align="center" alt="mysql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=sql&logoColor=white" >
+   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" >
+   <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" >
+   <img align="center" alt="overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" >
+   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" >
  </div><br/>
 
 Here are some ideas to get you started:
