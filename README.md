@@ -47,7 +47,7 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" >
  </div><br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PI-II-Museu-Historico-Jacinto-de-Sousa&repo=website-museu-jacinto-sousa&theme=transparent&border_radius=0)](https://github.com/Francisco-Paulino-Arruda-Filho/website-museu-jacinto-sousa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Francisco-Paulino-Arruda-Filho&repo=website-museu-jacinto-sousa&theme=transparent&border_radius=0)](https://github.com/Francisco-Paulino-Arruda-Filho/website-museu-jacinto-sousa)
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -66,6 +66,18 @@
    <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" >
    <img align="center" alt="psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
  </div><br/>
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Francisco-Paulino-Arruda-Filho&repo=ProjetoPoke&theme=transparent&border_radius=0)](https://github.com/Francisco-Paulino-Arruda-Filho/ProjetoPoke)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Francisco-Paulino-Arruda-Filho&repo=ProjetoPokAPI&theme=transparent&border_radius=0)](https://github.com/Francisco-Paulino-Arruda-Filho/ProjetoPokAPI)
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="ts" src="https://img.shields.io/badge/Frontend-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="center" alt="material" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+   <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" >
+   <img align="center" alt="restAPI" src="https://img.shields.io/badge/Backend-4A90E2?style=for-the-badge&logo=fastapi&logoColor=white" />
+   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div><br/>
  
 💡 About Me
 
