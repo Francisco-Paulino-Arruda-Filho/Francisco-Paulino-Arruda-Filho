@@ -7,8 +7,8 @@
 
 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Francisco-Paulino-Arruda-Filho&show_icons=true&theme=radical&locale=en&layout=compact" alt="Francisco Paulino Arruda Filho" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Francisco-Paulino-Arruda-Filho&show_icons=true&theme=radical&locale=en&layout=compact" alt="Francisco Paulino Arruda Filho" /></p>
+<p><img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=Francisco-Paulino-Arruda-Filho&show_icons=true&theme=radical&locale=en&layout=compact" alt="Francisco Paulino Arruda Filho" /></p>
+<p><img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Francisco-Paulino-Arruda-Filho&show_icons=true&theme=radical&locale=en&layout=compact" alt="Francisco Paulino Arruda Filho" /></p>
 
 🛠️ Tech Stack
 
